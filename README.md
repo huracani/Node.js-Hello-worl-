@@ -5,5 +5,3 @@
  ```sh
  $> node app.js
  ```
-
- ## terminal node test.js
